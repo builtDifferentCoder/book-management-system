@@ -1,0 +1,2346 @@
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T10:04:49.485Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T10:05:44.087Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T10:05:45.723Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T16:40:50.234Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T16:40:50.264Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T16:42:37.767Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T16:42:37.781Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T16:42:54.702Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T16:42:54.750Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T16:43:03.669Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T16:43:03.691Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T16:50:18.593Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T16:50:18.618Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T16:52:15.708Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T16:52:15.734Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T16:57:01.441Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T16:57:01.489Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T17:00:14.928Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T17:00:14.948Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T17:00:16.199Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T17:00:16.234Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T17:00:51.265Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T17:00:51.337Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T17:00:51.870Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T17:00:51.901Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T17:10:51.569Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T17:10:51.593Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T17:13:27.598Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T17:13:27.633Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T17:13:27.830Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T17:13:27.852Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T17:15:56.748Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T17:15:56.796Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T17:15:56.824Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T17:15:56.869Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T17:16:14.337Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T17:16:14.353Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T17:16:14.378Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T17:16:14.395Z'[39m
+}
+{
+  message: [32m'User created successfully'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-24T17:17:06.872Z'[39m
+}
+{
+  errno: [90mundefined[39m,
+  code: [32m'ECONNREFUSED'[39m,
+  syscall: [32m'querySrv'[39m,
+  hostname: [32m'_mongodb._tcp.cluster0.khgpzsi.mongodb.net'[39m,
+  level: [32m'error'[39m,
+  service: [32m'backend'[39m,
+  message: [32m'querySrv ECONNREFUSED _mongodb._tcp.cluster0.khgpzsi.mongodb.net'[39m,
+  stack: [32m'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.khgpzsi.mongodb.net\n'[39m +
+    [32m'    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:291:17)'[39m,
+  timestamp: [32m'2025-05-24T17:45:00.129Z'[39m
+}
+{
+  errno: [90mundefined[39m,
+  code: [32m'ECONNREFUSED'[39m,
+  syscall: [32m'querySrv'[39m,
+  hostname: [32m'_mongodb._tcp.cluster0.khgpzsi.mongodb.net'[39m,
+  level: [32m'error'[39m,
+  service: [32m'backend'[39m,
+  message: [32m'querySrv ECONNREFUSED _mongodb._tcp.cluster0.khgpzsi.mongodb.net'[39m,
+  stack: [32m'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.khgpzsi.mongodb.net\n'[39m +
+    [32m'    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:291:17)'[39m,
+  timestamp: [32m'2025-05-24T17:45:00.349Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:44:33.720Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:44:33.735Z'[39m
+}
+{
+  message: [32m'User created successfully'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:44:56.462Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:47:36.766Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:47:36.797Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:47:36.870Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:47:36.902Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:48:18.761Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:48:18.800Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:48:19.127Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:48:19.141Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:48:31.427Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:48:31.438Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:48:31.551Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:48:31.568Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:49:05.325Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:49:05.337Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:49:05.864Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:49:05.875Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:51:18.910Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:51:18.979Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:51:19.049Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:51:19.066Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:52:05.633Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:52:05.647Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:52:05.755Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:52:05.778Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:52:25.047Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:52:25.047Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:52:25.068Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:52:25.067Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:53:14.633Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:53:14.651Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:53:15.303Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:53:15.314Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:53:27.129Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:53:27.149Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:53:27.196Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:53:27.207Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:53:51.086Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:53:51.108Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:53:51.239Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:53:51.258Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:54:06.519Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:54:06.532Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:54:06.737Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:54:06.750Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:54:16.759Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:54:16.777Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:54:16.879Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:54:16.898Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:54:39.354Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:54:39.375Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:54:39.444Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:54:39.454Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:54:56.448Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:54:56.461Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:54:56.477Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:54:56.492Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:55:12.382Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:55:12.411Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:55:12.421Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:55:12.433Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:55:37.765Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:55:37.779Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:55:37.809Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:55:37.823Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:56:21.236Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:56:21.252Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:56:21.389Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:56:21.403Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:56:55.734Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:56:55.758Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:56:55.786Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:56:55.806Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:58:11.281Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:58:11.281Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:58:11.292Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T08:58:11.292Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:00:38.640Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:00:38.651Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:00:38.656Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:00:38.667Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:01:32.604Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:01:32.623Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:01:33.472Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:01:33.484Z'[39m
+}
+{
+  message: [32m'User signed in successfully'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:02:53.412Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:03:33.927Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:03:33.945Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:03:34.011Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:03:34.030Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:03:59.363Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:03:59.374Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:04:00.347Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:04:00.358Z'[39m
+}
+{
+  message: [32m'User signed in successfully'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:04:36.739Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:04:48.953Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:04:48.973Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:04:48.975Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:04:48.986Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:04:57.764Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:04:57.782Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:04:57.790Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:04:57.807Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:05:10.852Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:05:10.866Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:05:10.976Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:05:10.996Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:05:26.172Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:05:26.194Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:05:26.201Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:05:26.212Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:06:04.540Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:06:04.552Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:06:04.625Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:06:04.635Z'[39m
+}
+{
+  message: [32m'User signed in successfully'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:07:13.237Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:07:55.573Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:07:55.595Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:07:55.606Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:07:55.617Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:09:28.551Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:09:28.576Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:09:29.634Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:09:29.661Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:10:08.373Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:10:08.393Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:10:08.910Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:10:08.934Z'[39m
+}
+{
+  message: [32m'User signed in successfully'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:10:09.608Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:11:44.443Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:11:44.546Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:11:44.536Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:11:44.576Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:12:34.224Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:12:34.242Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:12:34.477Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:12:34.490Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:13:00.694Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:13:00.718Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:13:00.856Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:13:00.883Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:13:09.251Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:13:09.275Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:13:10.257Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:13:10.278Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:13:36.762Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:13:36.778Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:13:37.007Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:13:37.030Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:13:48.491Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:13:48.514Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:13:49.593Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:13:49.607Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:15:09.417Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:15:09.433Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:15:09.498Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:15:09.512Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:16:58.218Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:16:58.235Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:16:58.359Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:16:58.371Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:20:42.347Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:20:42.363Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:20:42.705Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:20:42.716Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:21:20.191Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:21:20.243Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:21:20.545Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:21:20.563Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:21:50.628Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:21:50.655Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:21:51.582Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:21:51.654Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:22:18.936Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:22:18.937Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:22:18.963Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:22:18.962Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:22:51.173Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:22:51.186Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:22:51.321Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:22:51.352Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:23:03.940Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:23:04.083Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:23:04.535Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:23:04.551Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:23:38.582Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:23:38.598Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:23:39.762Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:23:39.785Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:24:15.731Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:24:15.731Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:24:15.753Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:24:15.753Z'[39m
+}
+{
+  message: [32m'User signed in successfully'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-05-25T09:25:24.979Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T13:25:32.757Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T13:25:32.810Z'[39m
+}
+{
+  message: [32m'User signed in successfully'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T13:26:00.343Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T13:27:54.851Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T13:27:54.873Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T13:31:00.634Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T13:31:00.659Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T13:32:06.475Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T13:32:06.514Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T13:32:26.679Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T13:32:26.747Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T13:32:52.042Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T13:32:52.060Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T13:46:03.583Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T13:46:03.609Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T13:47:15.916Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T13:47:15.943Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T13:47:51.510Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T13:47:51.536Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T13:49:02.761Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T13:49:02.782Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T13:49:26.538Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T13:49:26.563Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T13:51:03.833Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T13:51:03.893Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T13:52:40.784Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T13:52:40.813Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T14:37:34.412Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T14:37:34.441Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T14:41:19.422Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T14:41:19.433Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T14:44:57.635Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T14:44:57.648Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T14:46:02.327Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T14:46:02.339Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T14:46:40.640Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T14:46:40.659Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T14:47:17.506Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T14:47:17.518Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T14:49:48.417Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T14:49:48.431Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T14:50:37.624Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T14:50:37.642Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T14:50:49.956Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T14:50:49.970Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T14:56:06.659Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T14:56:06.705Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T14:56:15.996Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T14:56:16.016Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T14:56:51.779Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T14:56:51.793Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T14:58:02.662Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T14:58:02.685Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T14:59:15.147Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T14:59:15.166Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:01:35.364Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:01:35.377Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:02:34.116Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:02:34.144Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:05:26.350Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:05:26.362Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:13:51.847Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:13:51.871Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:14:00.022Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:14:00.041Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:15:27.404Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:15:27.418Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:15:44.925Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:15:44.974Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:15:59.167Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:15:59.180Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:16:19.738Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:16:19.760Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:16:31.766Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:16:31.846Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:16:47.138Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:16:47.159Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:19:52.057Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:19:52.069Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:21:44.714Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:21:44.732Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:22:43.306Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:22:43.317Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:24:41.267Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:24:41.283Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:25:09.206Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:25:09.232Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:28:02.138Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:28:02.150Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:32:22.274Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:32:22.298Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:34:13.915Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:34:13.927Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:35:48.177Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:35:48.196Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:36:10.017Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:36:10.029Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:45:36.465Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:45:36.477Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:45:51.814Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:45:51.826Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:46:12.784Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:46:12.828Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:46:40.406Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:46:40.422Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:47:29.431Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:47:29.447Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:48:14.519Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:48:14.538Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:48:22.986Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:48:22.998Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:48:35.106Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:48:35.119Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:49:08.568Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:49:08.595Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:49:20.431Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:49:20.449Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:49:35.012Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:49:35.026Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:50:22.810Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:50:22.833Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:51:36.282Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:51:36.299Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:52:05.411Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:52:05.423Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:52:25.496Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:52:25.508Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:52:56.348Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:52:56.360Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:56:19.104Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:56:19.116Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:57:23.873Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T15:57:23.888Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T16:01:06.944Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T16:01:06.958Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T16:03:17.093Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T16:03:17.111Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T16:03:52.473Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T16:03:52.488Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T16:35:56.041Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T16:35:56.082Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T16:52:08.265Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T16:52:08.300Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T17:03:05.564Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T17:03:05.711Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T17:04:51.119Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T17:04:51.145Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T17:06:46.218Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T17:06:46.250Z'[39m
+}
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T17:07:32.166Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-06-01T17:07:32.198Z'[39m
+}
