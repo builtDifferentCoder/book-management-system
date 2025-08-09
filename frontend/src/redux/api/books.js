@@ -8,6 +8,11 @@ const bookSlice = apiSlice.injectEndpoints({
         url: `${BOOK_URL}/all-books`,
       }),
     }),
+    deleteBook: builder.mutation({
+      query: ({ id }) => ({
+        url: `${BOOK_URL}/delete-book/${id}`,
+      }),
+    }),
     createBook: builder.mutation({
       query: (data) => ({
         url: `${BOOK_URL}/create-book`,
@@ -24,7 +29,7 @@ const bookSlice = apiSlice.injectEndpoints({
     }),
     addBookReview: builder.mutation({
       query: ({ id, rating, comment }) => ({
-        url: `${BOOK_URL}/${id}/review`,
+        url: `${BOOK_URL}/${id}/reviews`,
         method: "POST",
         body: { rating, id, comment },
       }),
