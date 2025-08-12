@@ -22,3 +22,15 @@
     [32m'    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:291:17)'[39m,
   timestamp: [32m'2025-05-24T17:45:00.349Z'[39m
 }
+{
+  errno: [90mundefined[39m,
+  code: [32m'ENOTFOUND'[39m,
+  syscall: [32m'querySrv'[39m,
+  hostname: [32m'_mongodb._tcp.cluster0.khgpzsi.mongodb.net'[39m,
+  level: [32m'error'[39m,
+  service: [32m'backend'[39m,
+  message: [32m'querySrv ENOTFOUND _mongodb._tcp.cluster0.khgpzsi.mongodb.net'[39m,
+  stack: [32m'Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.khgpzsi.mongodb.net\n'[39m +
+    [32m'    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:294:17)'[39m,
+  timestamp: [32m'2025-08-12T12:55:10.399Z'[39m
+}
