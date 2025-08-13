@@ -2356,3 +2356,33 @@
     [32m'    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:294:17)'[39m,
   timestamp: [32m'2025-08-12T12:55:10.399Z'[39m
 }
+{
+  message: [32m'Connected to DB'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-08-13T12:18:28.603Z'[39m
+}
+{
+  message: [32m'Server is now on port 4000'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-08-13T12:18:28.690Z'[39m
+}
+{
+  message: [32m'User created successfully'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-08-13T12:19:51.313Z'[39m
+}
+{
+  message: [32m'User created successfully'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-08-13T12:21:53.615Z'[39m
+}
+{
+  message: [32m'User signed in successfully'[39m,
+  level: [32m'info'[39m,
+  service: [32m'backend'[39m,
+  timestamp: [32m'2025-08-13T12:46:19.069Z'[39m
+}

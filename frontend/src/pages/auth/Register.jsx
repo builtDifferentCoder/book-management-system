@@ -29,9 +29,14 @@ const Register = () => {
           dispatch(setCredentials({...res}))
           navigate(redirect)
           toast.success("User registered successfully")
+          navigate("/")
       } catch (error) {
         console.log(error)
         toast.error(error.data.message)
+        setUsername("")
+        setEmail("")
+        setPassword("")
+        setConfirmPassword("")
       }
   }
   }
