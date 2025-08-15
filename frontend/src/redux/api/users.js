@@ -8,6 +8,7 @@ const userApiSlice = apiSlice.injectEndpoints({
         url: `${USERS_URL}/auth`,
         method: "POST",
         body: data,
+        withCredentials: true,
       }),
     }),
     register: builder.mutation({
@@ -15,12 +16,14 @@ const userApiSlice = apiSlice.injectEndpoints({
         url: `${USERS_URL}`,
         method: "POST",
         body: data,
+        withCredentials: true,
       }),
     }),
     logout: builder.mutation({
       query: () => ({
         url: `${USERS_URL}/signOut`,
         method: "POST",
+        withCredentials: true,
       }),
     }),
     profile: builder.mutation({
@@ -28,6 +31,7 @@ const userApiSlice = apiSlice.injectEndpoints({
         url: `${USERS_URL}/profile`,
         method: "PUT",
         body: data,
+        withCredentials: true,
       }),
     }),
     getUsers: builder.query({

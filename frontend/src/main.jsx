@@ -10,6 +10,7 @@ import Home from './pages/Home.jsx'
 import Login from './pages/auth/Login.jsx'
 import Register from './pages/auth/Register.jsx'
 import PrivateRoute from './pages/auth/PrivateRoute.jsx'
+import Profile from './pages/user/profile.jsx'
 
 
 const router=createBrowserRouter(
@@ -19,7 +20,7 @@ const router=createBrowserRouter(
       <Route  path="/login" element={<Login/>}></Route>
       <Route  path="/register" element={<Register/>}></Route>
       <Route path="" element={<PrivateRoute/>}>
-        
+        <Route path="/profile" element={<Profile/>}></Route>
       </Route>
     </Route>
   )
